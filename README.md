@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+⚡ Feel free to check out [my website](https://jacobgnewman.com/) hosted on GH Pages
+
+#### Current Working Projects:
+
+- EngNote (Slowly)
+- Bitchain
+
+
+
+
+
 <!--
 **MountainGray/MountainGray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
