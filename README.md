@@ -7,7 +7,7 @@
 
 ## Coding Challenges
 
-:christmas_tree: [Advent of Code](https://github.com/MountainGray/advent) :: [Project_Euler](https://github.com/MountainGray/project_euler)
+:christmas_tree: [Advent of Code](https://github.com/MountainGray/advent) :: [Project_Euler](https://github.com/jacobgnewman/project_euler)
 
 ## Projects
 
