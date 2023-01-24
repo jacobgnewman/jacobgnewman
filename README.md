@@ -9,4 +9,5 @@
 
 ## Projects
 
+Working (slowly) through an implementation of the Lox interpreter in Rust [Rox](https://github.com/jacobgnewman/rox)
 
