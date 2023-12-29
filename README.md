@@ -9,9 +9,9 @@
 
 ## Projects
 
-🚧 Personal website 🏗️
+Personal website -> [jacobnewman.ca](https://jacobnewman.ca/)
 
 🐦‍⬛Sparrow, a discord bot for audio playback
 
-Working (slowly) through an implementation of the Lox interpreter in Rust [Rox](https://github.com/jacobgnewman/rox)
+[Rox](https://github.com/jacobgnewman/rox) -> implementaion of lox interpreter from Crafting interpreters
 
