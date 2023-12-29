@@ -11,7 +11,5 @@
 
 Personal website -> [jacobnewman.ca](https://jacobnewman.ca/)
 
-🐦‍⬛Sparrow, a discord bot for audio playback
-
 [Rox](https://github.com/jacobgnewman/rox) -> implementaion of lox interpreter from Crafting interpreters
 
