@@ -1,5 +1,5 @@
-# Jacobgnewman
+# Hi
 
-I hack stuff?
+I'm Jacob, or MountainRose in some places
 
-Steal my dots :)
+Feel free to steal my dots
